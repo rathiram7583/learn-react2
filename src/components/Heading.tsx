@@ -1,5 +1,5 @@
 import React from 'react';
-//import ReactDOM from 'react-dom';
+
 
 export class Heading extends React.Component{
     render()
@@ -8,5 +8,3 @@ export class Heading extends React.Component{
     }
 }
 
-//const myHeading =<Heading/>
-//ReactDOM.render(myHeading,document.getElementById('root') );
