@@ -15,7 +15,7 @@ function App() {
         <Heading/>
         <img src={logo} className="App-logo" alt="logo" />
        
-        <Book bName="Lizards" bTitle="Fiction" callMethod={myBook} />
+        <Book bName="Lizards" bTitle="Fiction"  callMethod={myBook} bContent="This book is all about the Lizard Family" />
       </header>
     </div>
   );
